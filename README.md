@@ -3,9 +3,9 @@ A backend developer
 
 - 📝 I sometimes write articles on [galiulin.github.io](https://galiulin.github.io)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Connect with me:
+
+[Telegram](https://t.me/G_Arthur) | [LinkedIn](https://www.linkedin.com/in/g-artur/) | [Galiulin.Arthur@gmail.com](mailto:Galiulin.Arthur@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
