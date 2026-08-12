@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Artur
 A backend developer
 
-- 📝 I sometimes write articles on [galiulin.github.io](https://galiulin.github.io)
-
 ### Connect with me:
 
 [Telegram](https://t.me/G_Arthur) | [LinkedIn](https://www.linkedin.com/in/g-artur/) | [Galiulin.Arthur@gmail.com](mailto:Galiulin.Arthur@gmail.com)
